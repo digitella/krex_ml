@@ -1043,6 +1043,13 @@ a {
 .cid-sdDPKNi8JE {
   background-image: url("../../../assets/images/x-1684x1191.png");
 }
+.cid-sdDPKNi8JE .mbr-section-title {
+  color: #ab45a6;
+}
+.cid-sdDPKNi8JE .mbr-text,
+.cid-sdDPKNi8JE .mbr-section-btn {
+  color: #9fdbf8;
+}
 .cid-sdDPPKlLtl {
   display: flex;
   background-image: url("../../../assets/images/background11.jpg");
