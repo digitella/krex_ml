@@ -1104,63 +1104,6 @@ a {
     margin-left: 0;
   }
 }
-.cid-sdEsaBB6HP {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sdEsaBB6HP img,
-.cid-sdEsaBB6HP .item-img {
-  width: 100%;
-}
-.cid-sdEsaBB6HP .item:focus,
-.cid-sdEsaBB6HP span:focus {
-  outline: none;
-}
-.cid-sdEsaBB6HP .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sdEsaBB6HP .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-sdEsaBB6HP .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-sdEsaBB6HP .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sdEsaBB6HP .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-sdEsaBB6HP .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
-  }
-}
-.cid-sdEsaBB6HP .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sdEsaBB6HP .mbr-section-title {
-  color: #232323;
-}
-.cid-sdEsaBB6HP .mbr-text,
-.cid-sdEsaBB6HP .mbr-section-btn {
-  text-align: left;
-}
-.cid-sdEsaBB6HP .item-title {
-  text-align: left;
-}
-.cid-sdEsaBB6HP .item-subtitle {
-  text-align: left;
-}
 .cid-sdGOnBcO8V {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1284,6 +1227,63 @@ a {
 .cid-sdDPZAzQ3d .item-subtitle {
   text-align: left;
   color: #bbbbbb;
+}
+.cid-sdEsaBB6HP {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sdEsaBB6HP img,
+.cid-sdEsaBB6HP .item-img {
+  width: 100%;
+}
+.cid-sdEsaBB6HP .item:focus,
+.cid-sdEsaBB6HP span:focus {
+  outline: none;
+}
+.cid-sdEsaBB6HP .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sdEsaBB6HP .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sdEsaBB6HP .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-sdEsaBB6HP .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sdEsaBB6HP .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-sdEsaBB6HP .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-sdEsaBB6HP .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sdEsaBB6HP .mbr-section-title {
+  color: #232323;
+}
+.cid-sdEsaBB6HP .mbr-text,
+.cid-sdEsaBB6HP .mbr-section-btn {
+  text-align: left;
+}
+.cid-sdEsaBB6HP .item-title {
+  text-align: left;
+}
+.cid-sdEsaBB6HP .item-subtitle {
+  text-align: left;
 }
 .cid-sdDQHFk1Rg {
   padding-top: 90px;
